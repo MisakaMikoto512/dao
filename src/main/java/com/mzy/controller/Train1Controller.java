@@ -23,7 +23,7 @@ import java.util.List;
  * @since 2020-05-22
  */
 @RestController
-@RequestMapping("/generator/train1")
+@RequestMapping("/train1")
 public class Train1Controller {
     @Autowired
     private Train1ServiceImpl train1Service;

@@ -14,7 +14,7 @@ import org.springframework.stereotype.Controller;
  * @since 2020-05-22
  */
 @Controller
-@RequestMapping("/generator/travel_dynamic")
+@RequestMapping("/travel_dynamic")
 public class Travel_dynamicController {
 
 }

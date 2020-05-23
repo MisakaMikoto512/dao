@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2020-05-22
  */
 @RestController
-@RequestMapping("/generator/train")
+@RequestMapping("/train")
 public class TrainController {
 
 }

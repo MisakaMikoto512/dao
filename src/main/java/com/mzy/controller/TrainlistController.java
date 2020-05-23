@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2020-05-22
  */
 @RestController
-@RequestMapping()
+@RequestMapping
 public class TrainlistController {
     @Autowired
     TrainlistServiceImpl trainlistService;

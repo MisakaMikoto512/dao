@@ -21,7 +21,7 @@ import java.util.List;
  * @since 2020-05-22
  */
 @RestController
-@RequestMapping("/generator/seat_type")
+@RequestMapping("/seat_type")
 public class Seat_typeController {
     @Autowired
     private Seat_typeMapper seat_typeMapper;
